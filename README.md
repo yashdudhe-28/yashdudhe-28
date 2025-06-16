@@ -25,7 +25,7 @@ Here are a few projects I've worked on:
 
 ### 📫 Let's Connect!
 
-- 📧 Mail me: `your-email@example.com`
+- 📧 Mail me: `dudheyash29@gmail.com`
 - 💼 Portfolio: Coming soon!
 
 ---
