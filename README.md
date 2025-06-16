@@ -25,16 +25,9 @@ Here are a few projects I've worked on:
 
 ### 📫 Let's Connect!
 
-- 📧 Mail me: `your-email@example.com` *(replace with real one)*
+- 📧 Mail me: `your-email@example.com`
 - 💼 Portfolio: Coming soon!
 
 ---
 
-### 🏆 GitHub Stats
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashdudhe-28&show_icons=true&theme=radical)
-
----
-
 ⭐️ Don't forget to **star** the repositories if you find them useful!
-
