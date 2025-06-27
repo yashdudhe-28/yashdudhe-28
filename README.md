@@ -62,3 +62,7 @@
 - 🔗 GitHub: [@yashdudhe-28](https://github.com/yashdudhe-28)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
