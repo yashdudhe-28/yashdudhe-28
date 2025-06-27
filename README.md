@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yash Dudhe</h1>
-<h3 align="center">🚀 A passionate Developer from India | Web Dev | Python Enthusiast</h3>
+<h3 align="center">🚀 A passionate Developer | Python Enthusiast</h3>
 
 ---
 
