@@ -16,12 +16,6 @@
 
 ---
 
-<!-- Snake Animation -->
-### 🐍 Contribution Graph
-![snake gif](https://github.com/yogendra-27-bhange/yogendra-27-bhange/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <!-- GitHub Stats Cards -->
 ### 📊 GitHub Stats & Achievements
 <p align="center">
@@ -41,20 +35,12 @@
 |--------|-------------|
 | [🌤️ WeatherWise-2.0](https://github.com/yashdudhe-28/WeatherWise-2.0) | AI-based mood + health weather web app |
 | [🛠️ compiler-design-lab](https://github.com/yashdudhe-28/compiler-design-lab) | Collection of 15 compiler-based academic projects |
-| [🌐 web-portfolio-demo](https://github.com/yashdudhe-28/web-portfolio-demo) | Mock HTML/CSS/JS portfolio project |
 | [🐍 snake-game-tkinter](https://github.com/yashdudhe-28/snake-game-tkinter) | Python Tkinter-based Snake game |
 | [❌⭕ tic-tac-toe-tkinter](https://github.com/yashdudhe-28/tic-tac-toe-tkinter) | GUI-based two-player tic-tac-toe |
 | [📝 CRUD](https://github.com/yashdudhe-28/CRUD) | Django-based blog CRUD web app |
 | [📰 FlaskBlogAI](https://github.com/yashdudhe-28/FlaskBlogAI) | Blog app using Flask + AI endpoints |
 
 ---
-
-<!-- YouTube Thumbnail -->
-### 🎬 Featured YouTube Project
-
-[![Tkinter Calculator Thumbnail](https://img.youtube.com/vi/YMI_7_4ivP8/maxresdefault.jpg)](https://youtu.be/YMI_7_4ivP8)
-> **Tkinter Calculator** – Simple calculator built with Python’s Tkinter GUI library.
-
 ---
 
 <!-- Contact -->
@@ -66,5 +52,3 @@
 
 ---
 
-⭐️ Don’t forget to **Star** your favorite projects!  
-🧠 Keep building. Keep growing.
