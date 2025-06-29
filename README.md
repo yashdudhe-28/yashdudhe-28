@@ -28,19 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🌐 Event Planner](https://github.com/yogendra-27-bhange/eventplanner) | Event management system built using **Next.js, Tailwind, Firebase** |
-| [🧠 Pathfinder AI](https://github.com/yogendra-27-bhange/Pathfinder-AI-sih1781) | Personalized career guide AI system with smart recommendations |
-| [🎯 Complaint System](https://github.com/yogendra-27-bhange/complaint-management-system) | Flask + MySQL app for complaint registration with role-based login |
-| [🛒 Mini E-Commerce](https://github.com/yogendra-27-bhange/mini-ecommerce) | Flask-based shopping platform with cart, admin panel, and MySQL |
-| [🧠 Trushna AI Assistant](https://github.com/yogendra-27-bhange/trushna_ai_assistant) | AI assistant using Gemini API, Flask, voice interaction |
-| [🏥 MediQueue (SIH)](https://github.com/yogendra-27-bhange/mediqueue-sih1620-opd-management) | OPD/bed queue management using mock data and TypeScript |
-
----
-
 ## 🌍 Live Project Link
 
 🔗 [Saarthi Accessibility Guide (Live Demo)](https://saarthi-app.netlify.app/)
