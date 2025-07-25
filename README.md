@@ -69,10 +69,10 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 Updated GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdudhe-28&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -80,14 +80,6 @@
 ## 🌍 Live Project Link
 
 🔗 [Saarthi Accessibility Guide – Live Demo](https://saarthi-app.netlify.app/)
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdudhe-28&theme=react-dark&bg_color=0D1117" />
-</p>
 
 ---
 
