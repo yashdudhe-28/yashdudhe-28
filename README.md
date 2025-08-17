@@ -1,13 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Yash Dudhe</h1>
-<h3 align="center">🚀 A passionate Developer | Python Enthusiast</h3>
+<h3 align="center">🚀 A Passionate Developer | Python Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C897&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Web+Developer;Python+%26+AI+Enthusiast;Open-Source+Contributor;Hackathon+Winner+🏆" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **full-stack web projects using Flask & Django**
-- 🌱 I’m currently learning **React, Firebase, and advanced backend**
-- 👯 I’m looking to collaborate on **open source and student-friendly tools**
+- 🔭 Currently working on **full-stack web projects using Flask & Django**
+- 🌱 Learning **React, Firebase, and advanced backend**
+- 👯 Open to collaborate on **open source & student-friendly tools**
 - 💬 Ask me about **Python, Web Dev, or anything tech!**
 - 📫 Reach me at: **dudheyash29@gmail.com**
 
@@ -15,60 +19,39 @@
 
 ## 🏆 Hackathon Highlight
 
-### 🥇 Winner of SuPrathon 2K25 – *India’s Biggest National Hackathon*
+### 🥇 Winner of SuPrathon 2K25 – *India’s Biggest National Hackathon*  
 
 **🚀 Project: MediSafe – AI-Powered Health Document Locker**
 
 - 🔐 Secure health document storage with **Supabase**
-- 🤖 Built-in AI OCR and real-time document analysis
+- 🤖 Built-in AI OCR & real-time document analysis
 - ⏱ Completed in under 48 hours by **Team Error**
 
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
+<p align="center">
+  <a href="https://medisafe-locker.netlify.app/"><img src="https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  <a href="https://github.com/yogendra-27-bhange/medisafe-health-locker"><img src="https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><sub><b>C</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><sub><b>C++</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub><b>Python</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub><b>TypeScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br><sub><b>Java</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java" />
+</p>
 
 ### 🎨 Frontend
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br><sub><b>HTML</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br><sub><b>CSS</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
 
 ### ⚙️ Backend / Tools
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br><sub><b>Flask</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40"/><br><sub><b>Django</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br><sub><b>Firebase</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub><b>MySQL</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub><b>Git</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="40"/><br><sub><b>Netlify</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><sub><b>Vercel</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40"/><br><sub><b>Supabase</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,django,firebase,mysql,git,github,netlify,vercel,supabase" />
+</p>
 
 ---
-
 
 ## 🏆 GitHub Achievements
 
@@ -79,17 +62,36 @@
 
 ### 🎖️ Achievements Unlocked
 - **Pull Shark** 🦈 – Awarded for successfully merging pull requests  
-- **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes
+- **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashdudhe-28&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdudhe-28&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdudhe-28&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-- 💌 Mail: **dudheyash29@gmail.com**
-- 🔗 GitHub: [@yashdudhe-28](https://github.com/yashdudhe-28)
-- 🌐 Portfolio: *Coming soon*
+<p align="center">
+  <a href="mailto:dudheyash29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/yashdudhe-28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashdudhe-28&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
