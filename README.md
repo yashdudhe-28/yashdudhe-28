@@ -1,52 +1,96 @@
-# 👋 Hello, I'm [Your Name]!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_@you-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-
-🚀 Passionate Developer | 💻 Tech Enthusiast | 🌟 Open Source Contributor
-
-## 🛠️ Technologies & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Let's Connect
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
-## ⚡ Fun Fact
-> "The first computer 'bug' was an actual bug - a moth found trapped in the Harvard Mark II computer in 1947!"
+<h1 align="center">Hi there 👋, I'm Yash Dudhe</h1>
+<h3 align="center">🚀 A passionate Developer | Python Enthusiast</h3>
 
 ---
 
-⭐️ From [YourUsername](https://github.com/yourusername)
+## 🧠 About Me
+
+- 🔭 I’m currently working on **full-stack web projects using Flask & Django**
+- 🌱 I’m currently learning **React, Firebase, and advanced backend**
+- 👯 I’m looking to collaborate on **open source and student-friendly tools**
+- 💬 Ask me about **Python, Web Dev, or anything tech!**
+- 📫 Reach me at: **dudheyash29@gmail.com**
+
+---
+
+## 🏆 Hackathon Highlight
+
+### 🥇 Winner of SuPrathon 2K25 – *India’s Biggest National Hackathon*
+
+**🚀 Project: MediSafe – AI-Powered Health Document Locker**
+
+- 🔐 Secure health document storage with **Supabase**
+- 🤖 Built-in AI OCR and real-time document analysis
+- ⏱ Completed in under 48 hours by **Team Error**
+
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><sub><b>C</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><sub><b>C++</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub><b>TypeScript</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br><sub><b>Java</b></sub></td>
+  </tr>
+</table>
+
+### 🎨 Frontend
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br><sub><b>HTML</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br><sub><b>CSS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub></td>
+  </tr>
+</table>
+
+### ⚙️ Backend / Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br><sub><b>Flask</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40"/><br><sub><b>Django</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br><sub><b>Firebase</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub><b>MySQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub><b>Git</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br><sub><b>GitHub</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="40"/><br><sub><b>Netlify</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><sub><b>Vercel</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40"/><br><sub><b>Supabase</b></sub></td>
+  </tr>
+</table>
+
+---
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge" />
+</p>
+
+### 🎖️ Achievements Unlocked
+- **Pull Shark** 🦈 – Awarded for successfully merging pull requests  
+- **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes
+
+---
+
+## 📫 Connect with Me
+
+- 💌 Mail: **dudheyash29@gmail.com**
+- 🔗 GitHub: [@yashdudhe-28](https://github.com/yashdudhe-28)
+- 🌐 Portfolio: *Coming soon*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
