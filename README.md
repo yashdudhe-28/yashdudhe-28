@@ -69,13 +69,6 @@
 
 ---
 
-## 📊 Updated GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra-27-bhange&theme=tokyonight" height="180"/>
-</p>
-
----
 
 ## 🏆 GitHub Achievements
 
@@ -88,7 +81,7 @@
 - **Pull Shark** 🦈 – Awarded for successfully merging pull requests  
 - **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes
 
-
+---
 
 ## 📫 Connect with Me
 
