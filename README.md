@@ -75,11 +75,13 @@
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire Badge" />
 </p>
 
 ### 🎖️ Achievements Unlocked
 - **Pull Shark** 🦈 – Awarded for successfully merging pull requests  
-- **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes
+- **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes  
+- **Pair Extraordinaire** 🤝 – Awarded for co-authoring a merged pull request  
 
 ---
 
