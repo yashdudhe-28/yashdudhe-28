@@ -89,7 +89,7 @@
 
 - 💌 Mail: **dudheyash29@gmail.com**
 - 🔗 GitHub: [@yashdudhe-28](https://github.com/yashdudhe-28)
-- 🌐 Portfolio: *Coming soon*
+- 🌐 Portfolio: *https://yashd-portfolio.vercel.app/*
 
 ---
 
