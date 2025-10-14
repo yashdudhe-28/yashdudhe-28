@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yash Dudhe</h1>
-<h3 align="center">🚀 A passionate Developer | Python Enthusiast</h3>
+![Banner](https://github.com/yashdudhe-28/yashdudhe-28/blob/main/bannery.png)
 
 ---
 
