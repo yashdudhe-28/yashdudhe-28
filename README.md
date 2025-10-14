@@ -32,10 +32,6 @@
 </table>
 
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00C897&center=true&vCenter=true&width=800&lines=🏆+SuPrathon+2K25+Winner!;🚀+MediSafe+–+AI+Health+Locker;⚡+Built+in+48+Hours+by+Team+Error" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
