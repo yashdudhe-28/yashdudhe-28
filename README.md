@@ -2,28 +2,39 @@
 
 ---
 
-## 🧠 About Me
+<div align="left">
 
-- 🔭 I’m currently working on **full-stack web projects using Flask & Django**
-- 🌱 I’m currently learning **React, Firebase, and advanced backend**
-- 👯 I’m looking to collaborate on **open source and student-friendly tools**
-- 💬 Ask me about **Python, Web Dev, or anything tech!**
-- 📫 Reach me at: **dudheyash29@gmail.com**
+<table>
+<tr>
+<td align="center" width="400">
 
----
+<h2>🏆 SuPrathon 2K25</h2>
+<h4>🥇 National Hackathon Winner</h4>
+<p><b>Project:</b> MediSafe – AI Health Document Locker</p>
 
-## 🏆 Hackathon Highlight
+<p>
+🔐 Secure storage via <b>Supabase</b><br>
+🤖 AI-powered OCR & Real-time Insights<br>
+⏱ Completed in <b>48 hours</b> by <b>Team Error</b>
+</p>
 
-### 🥇 Winner of SuPrathon 2K25 – *India’s Biggest National Hackathon*
+<p>
+<a href="https://medisafe-locker.netlify.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C897?style=flat-square&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://github.com/yogendra-27-bhange/medisafe-health-locker">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/>
+</a>
+</p>
 
-**🚀 Project: MediSafe – AI-Powered Health Document Locker**
+</td>
+</tr>
+</table>
 
-- 🔐 Secure health document storage with **Supabase**
-- 🤖 Built-in AI OCR and real-time document analysis
-- ⏱ Completed in under 48 hours by **Team Error**
-
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C897?style=for-the-badge&logo=netlify)](https://medisafe-locker.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-24292F?style=for-the-badge&logo=github)](https://github.com/yogendra-27-bhange/medisafe-health-locker)
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00C897&center=true&vCenter=true&width=800&lines=🏆+SuPrathon+2K25+Winner!;🚀+MediSafe+–+AI+Health+Locker;⚡+Built+in+48+Hours+by+Team+Error" />
+</p>
 
 ---
 
