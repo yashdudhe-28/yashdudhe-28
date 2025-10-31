@@ -1,37 +1,22 @@
 ![Banner](https://github.com/yashdudhe-28/yashdudhe-28/blob/main/bannery.png)
 
----
 
-<div align="left">
-
-<table>
-<tr>
-<td align="center" width="400">
-
-<h2>🏆 SuPrathon 2K25</h2>
-<h4>🥇 National Hackathon Winner</h4>
-<p><b>Project:</b> MediSafe – AI Health Document Locker</p>
-
-<p>
-🔐 Secure storage via <b>Supabase</b><br>
-🤖 AI-powered OCR & Real-time Insights<br>
-⏱ Completed in <b>48 hours</b> by <b>Team Error</b>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-dudhe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="mailto:dudheyash28@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+  <a href="https://github.com/yashdudhe-28" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+  <a href="https://yashd-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+  </a>
 </p>
 
-<p>
-<a href="https://medisafe-locker.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C897?style=flat-square&logo=netlify&logoColor=white"/>
-</a>
-<a href="https://github.com/yogendra-27-bhange/medisafe-health-locker">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/>
-</a>
-</p>
 
-</td>
-</tr>
-</table>
-
-</div>
 ---
 
 ## 🛠️ Tech Stack
@@ -76,26 +61,22 @@
 ---
 
 
-## 🏆 GitHub Achievements
-
+## 📫 Connect with Me
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire Badge" />
+  <a href="https://www.linkedin.com/in/yash-dudhe" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dudheyash28@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/yashdudhe-28" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://yashd-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
-### 🎖️ Achievements Unlocked
-- **Pull Shark** 🦈 – Awarded for successfully merging pull requests  
-- **Quickdraw** 🤠 – Awarded for closing an issue/pull request within 5 minutes  
-- **Pair Extraordinaire** 🤝 – Awarded for co-authoring a merged pull request  
-
----
-
-## 📫 Connect with Me
-
-- 💌 Mail: **dudheyash29@gmail.com**
-- 🔗 GitHub: [@yashdudhe-28](https://github.com/yashdudhe-28)
-- 🌐 Portfolio: *https://yashd-portfolio.vercel.app/*
 
 ---
 
