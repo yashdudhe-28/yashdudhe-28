@@ -21,12 +21,13 @@
 
 ### 🏆 GitHub Achievements
 
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
+<p align="center">
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="100" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" />
 </p>
 
 ---
